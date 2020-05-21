@@ -22,11 +22,14 @@
         "twig/twig": "^2.4|^3.0"
     },
     "require-dev": {
+        "kick-the-bucket/date-extra": "^1.0.0",
+        "symfony/phpunit-bridge": "^4.2|^5.0",
         "twig/cssinliner-extra": "^2.12|^3.0",
         "twig/html-extra": "^2.12|^3.0",
         "twig/inky-extra": "^2.12|^3.0",
         "twig/intl-extra": "^2.12|^3.0",
-        "twig/markdown-extra": "^2.12|^3.0"
+        "twig/markdown-extra": "^2.12|^3.0",
+        "twig/string-extra": "^2.12|^3.0"
     },
     "autoload": {
         "psr-4" : {
